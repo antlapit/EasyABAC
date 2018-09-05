@@ -1,2 +1,2 @@
 # EasyABAC
-Flexible authentication framework
+Flexible attribute-based authorization framework
